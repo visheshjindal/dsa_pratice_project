@@ -1,6 +1,6 @@
 # tests/test_rotate_string.py
 # Import the function directly from your solution file
-from problems.strings.rotate_string import rotateString
+from problems.strings.rotate_string_kmp import rotateString
 
 class TestRotateStringPytest: # No inheritance from unittest.TestCase needed
 
